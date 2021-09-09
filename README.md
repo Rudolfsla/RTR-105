@@ -1,2 +1,2 @@
 ## RTR-105
-**Datormācība _(pamatkurss)_**
+**Datormācība _(pamatkurss)_** ~~oops~~
