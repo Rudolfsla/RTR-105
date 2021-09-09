@@ -1,2 +1,2 @@
-# RTR-105
-Datormācība (pamatkurss)
+## RTR-105
+**Datormācība _(pamatkurss)_**
