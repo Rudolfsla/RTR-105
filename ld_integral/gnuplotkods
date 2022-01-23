@@ -1,0 +1,8 @@
+set terminal png
+set output "datormgn1" 
+set title "f(x) = exp(x)"
+set xrange [-10:10]
+set terminal qt
+plot exp(x),\
+[-10:10] exp(x) notitle w filledc below,\
+[-10:10] exp(x) notitle w filledc above
